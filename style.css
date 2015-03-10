@@ -9,8 +9,8 @@ body {
 	position:relative;
 }
 #header {
-	padding:10px;
 	background:#005500;
+	position:fixed;
 }
 #content {
 	padding:10px;
